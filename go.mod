@@ -3,6 +3,7 @@ module githug.com/guilhermeayusso/api-goexpert
 go 1.23.6
 
 require (
+	github.com/go-chi/chi/v5 v5.2.1
 	github.com/go-chi/jwtauth v1.2.0
 	github.com/google/uuid v1.6.0
 	github.com/spf13/viper v1.20.1
