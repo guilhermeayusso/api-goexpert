@@ -3,8 +3,8 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTAxMTk4N
 Content-Type: application/json
 
 {
-  "name": "Sample Product 4",
-  "price": 19.99
+  "name": "Sample Product 10",
+  "price": 19.90
 }
 
 ###
